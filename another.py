@@ -1,1 +1,1 @@
-print("this is a new one")
+test=input("test: ")
